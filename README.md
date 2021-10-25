@@ -1,5 +1,5 @@
 title: Welcome to Super20 Institute Pathankot
-description: Please visit the following link to our new website:
-url: "https://github.com/AWEEKJ/Kiko-plus"
+description: This website is moved to following:
+url: "https://super20partners.wixsite.com/super20institute "
 
 #This website is moved to --> https://super20partners.wixsite.com/super20institute 
