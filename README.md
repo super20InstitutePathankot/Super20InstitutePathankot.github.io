@@ -4,4 +4,5 @@
 ## [https://super20partners.wixsite.com/super20institute](https://super20partners.wixsite.com/super20institute)
 
 Coaching Centre for IIT- JEE | NEET | CBSE | PSEB Entrance Examinations and Boards
-Physics Chemistry Maths Biology Tutions for 11th and 12th Classes
+
+Physics, Chemistry, Maths, Biology Coaching for 11th and 12th Classes
